@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is my CV 👉 [Click](https://igreknet.github.io/my-resume/)
+Here is my pet projects 👉 [Click](https://igreknet.github.io/my-resume/)
 
 <!--
 **igreknet/igreknet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
